@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Saif 👋
 
-<!--
-**saif-python-dev/saif-python-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm learning Python and building real projects to grow my skills.  
+Right now I'm working on:
 
-Here are some ideas to get you started:
+- Python fundamentals  
+- Building small apps like a Contact Book  
+- Learning Git & GitHub  
+- Preparing for bigger projects like Jarvis and web apps  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies I'm Learning
+- Python  
+- VS Code  
+- Git & GitHub  
+
+## 🚀 My Projects
+- **Contact Book (Python)** — my first real project with JSON storage  
+  https://github.com/YOUR-USERNAME/contact-book
+
+## 📈 Goals
+- Build a strong portfolio  
+- Create useful tools and apps  
+- Become a professional developer  
